@@ -66,7 +66,7 @@ Cada artefato público deve responder:
 - Nenhuma credencial, token, chave, cookie ou arquivo `.env` é publicado.
 - Dados pessoais e ambientes de terceiros são removidos ou substituídos por exemplos fictícios.
 - Testes de segurança são limitados a laboratórios próprios, locais ou explicitamente autorizados.
-- Anotações privadas permanecem no workspace privado do PROJECT 18.
+- Anotações privadas e rascunhos permanecem fora do repositório público.
 
 ## Licença
 
